@@ -1,0 +1,27 @@
+body
+{
+    background: linear-gradient(white,green,red);
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-size: 100% 100vh;
+}
+
+table, td, th 
+{
+    background: white;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+#fm
+{
+    font-weight: bold;
+    font-style: italic;
+    color: darkmagenta;
+}
+#m
+{
+    font-weight: bold;
+    font-style: italic;
+    color: darkblue;
+}
